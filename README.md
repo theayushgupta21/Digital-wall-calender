@@ -318,4 +318,8 @@ MIT — Use freely in personal or commercial projects
 
 ---
 
+<<<<<<< HEAD
 Built By Ayush Gupta  — Premium wall calendar component for the modern web.
+=======
+**Built with ❤️ @ 2026 Ayush Gupta ** — Premium wall calendar component for the modern web.
+>>>>>>> 631201d8847fcd6c3dcc2e83bde88e7892f01378
