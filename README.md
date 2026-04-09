@@ -318,4 +318,4 @@ MIT — Use freely in personal or commercial projects
 
 ---
 
-**Built with ❤️ @ 2025** — Premium wall calendar component for the modern web.
+Built By Ayush Gupta  — Premium wall calendar component for the modern web.
